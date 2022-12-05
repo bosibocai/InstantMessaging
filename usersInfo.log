@@ -1,7 +1,15 @@
-2022-12-02 17:04:17,543 server.py[line:37] INFO sign in fail: password error!
-2022-12-02 17:04:27,423 server.py[line:29] INFO sign in fail: username error!
-2022-12-02 20:13:41,595 server.py[line:43] INFO sign in success!
-2022-12-02 20:18:38,767 server.py[line:43] INFO sign in success!
-2022-12-02 20:18:48,023 server.py[line:43] INFO sign in success!
-2022-12-02 21:54:50,828 server.py[line:45] INFO sign in success!
-2022-12-02 21:55:59,072 server.py[line:45] INFO sign in success!
+
+2022-12-03 21:20:03,742 server.py[line:40] INFO sign in fail: username error!
+2022-12-03 21:21:11,256 server.py[line:40] INFO sign in fail: username error!
+2022-12-03 21:26:34,733 server.py[line:40] INFO sign in fail: username error!
+2022-12-03 21:26:57,234 server.py[line:45] INFO sign in success!
+2022-12-03 21:38:25,493 server.py[line:40] INFO sign in fail: username error!
+2022-12-03 21:39:26,204 server.py[line:40] INFO sign in fail: username error!
+2022-12-03 21:41:29,078 server.py[line:45] INFO sign in success!
+2022-12-03 21:42:23,849 server.py[line:45] INFO sign in success!
+2022-12-03 21:42:40,994 server.py[line:40] INFO sign in fail: username error!
+2022-12-03 21:45:15,378 server.py[line:45] INFO sign in success!
+2022-12-03 21:48:06,362 server.py[line:45] INFO sign in success!
+2022-12-03 21:56:18,467 server.py[line:45] INFO sign in success!
+2022-12-03 21:56:29,947 server.py[line:40] INFO sign in fail: username error!
+2022-12-03 21:56:51,240 server.py[line:40] INFO sign in fail: username error!

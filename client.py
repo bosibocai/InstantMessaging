@@ -17,7 +17,7 @@ class Client:
         self.client_socket = socket(AF_INET, SOCK_STREAM)
         self.client_socket.connect((self.ip, self.port))
         send_data = utils.send_signin(username, password)
-        print(type(send_data))
+        # print(type(send_data))
         self.client_socket.send(send_data.encode())
         back_str = self.client_socket.recv(1024).decode()
         back_data=eval(back_str)
